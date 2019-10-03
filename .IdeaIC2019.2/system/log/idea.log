@@ -1,0 +1,50 @@
+2019-10-02 20:10:39,773 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-10-02 20:10:39,794 [     21]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-192.5728.98, 23 Jul 2019 06:11) 
+2019-10-02 20:10:39,796 [     23]   INFO -        #com.intellij.idea.Main - OS: Linux (5.0.0-29-generic, amd64) 
+2019-10-02 20:10:39,796 [     23]   INFO -        #com.intellij.idea.Main - JRE: 11.0.3+12-b304.10 (JetBrains s.r.o) 
+2019-10-02 20:10:39,796 [     23]   INFO -        #com.intellij.idea.Main - JVM: 11.0.3+12-b304.10 (OpenJDK 64-Bit Server VM) 
+2019-10-02 20:10:39,797 [     24]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/ubuntu/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/ubuntu/java_error_in_IDEA.hprof -Didea.paths.selector=IdeaIC2019.2 -Djb.vmOptionsFile=/opt/intellij-idea-community/bin/idea64.vmoptions -Didea.platform.prefix=Idea -Didea.jre.check=true 
+2019-10-02 20:10:39,797 [     24]   INFO -        #com.intellij.idea.Main - charsets: JNU=ANSI_X3.4-1968 file=ANSI_X3.4-1968 
+2019-10-02 20:10:39,830 [     57]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 44 ms 
+2019-10-02 20:10:40,068 [    295]   INFO - plication.impl.ApplicationImpl - CPU cores: 8; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@1dab1641[Running, parallelism = 7, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@2ac7ea90 
+2019-10-02 20:10:40,133 [    360]   INFO -        #com.intellij.idea.Main - WM detected: KWin 
+2019-10-02 20:10:51,301 [  11528]   INFO - tellij.diagnostic.LoadingPhase - Reached SPLASH loading phase 
+2019-10-02 20:10:51,617 [  11844]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2019-10-02 20:10:51,619 [  11846]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-detection-groovy.xml 
+2019-10-02 20:10:51,722 [  11949]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor profiler-java.xml 
+2019-10-02 20:10:51,891 [  12118]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.3.3), Ant (192.5728.98), Bytecode Viewer (192.5728.98), ChangeReminder (192.5728.98), Configuration Script (192.5728.98), Copyright (192.5728.98), Coverage (192.5728.98), Eclipse Interoperability (192.5728.98), EditorConfig (192.5728.98), Git (192.5728.98), GitHub (192.5728.98), Gradle (192.5728.98), Gradle-Maven (192.5728.98), Groovy (192.5728.98), IDEA CORE (192.5728.98), IntelliLang (192.5728.98), JUnit (192.5728.98), Java (192.5728.98), Java Bytecode Decompiler (192.5728.98), Java IDE Customization (192.5728.98), Java Internationalization (192.5728.98), Java Stream Debugger (192.5728.98), JavaFX (192.5728.98), Kotlin (1.3.41-release-IJ2019.2-1), Markdown (192.5728.98), Maven (192.5728.98), Mercurial (192.5728.98), Plugin DevKit (192.5728.98), Properties (192.5728.98), Settings Repository (192.5728.98), Shell Script (192.5728.98), Smali Support (192.5728.98), Subversion (192.5728.98), Task Management (192.5728.98), Terminal (192.5728.98), TestNG (192.5728.98), TextMate bundles (192.5728.98), UI Designer (192.5728.98), XPathView + XSLT (192.5728.98), XSLT Debugger (192.5728.98), YAML (192.5728.98) 
+2019-10-02 20:10:51,891 [  12118]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Scala (2019.2.23) 
+2019-10-02 20:10:52,577 [  12804]   INFO - tellij.diagnostic.LoadingPhase - Reached CONFIGURATION_STORE_INITIALIZED loading phase 
+2019-10-02 20:10:52,645 [  12872]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: '/home/ubuntu/.IdeaIC2019.2/system/caches/names.dat' does not exist 
+2019-10-02 20:10:52,647 [  12874]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2019-10-02 20:10:52,693 [  12920]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/intellij-idea-community/bin/fsnotifier64 
+2019-10-02 20:10:52,711 [  12938]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-10-02 20:10:53,246 [  13473]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2019-10-02 20:10:53,247 [  13474]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2019-10-02 20:10:53,462 [  13689]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-10-02 20:10:53,471 [  13698]   INFO - tellij.ide.SystemHealthMonitor - restored ignored PIPE handler 
+2019-10-02 20:10:53,491 [  13718]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2019-10-02 20:10:54,073 [  14300]   INFO - il.indexing.FileBasedIndexImpl - File index extensions iterated:465 
+2019-10-02 20:10:54,343 [  14570]   INFO - ation.SbtCompilationSupervisor - Listening to incoming sbt compilation events on port 0. 
+2019-10-02 20:10:54,424 [  14651]   INFO - j.ide.ui.OptionsTopHitProvider - 30 ms spent to cache options in application 
+2019-10-02 20:10:54,736 [  14963]   INFO - pi.util.registry.RegistryValue - Registry value 'SBT.system.in.process' has changed to 'true' 
+2019-10-02 20:10:54,738 [  14965]   INFO - pi.util.registry.RegistryValue - Registry value 'BSP.system.in.process' has changed to 'true' 
+2019-10-02 20:10:54,749 [  14976]   INFO - tellij.diagnostic.LoadingPhase - Reached FRAME_SHOWN loading phase 
+2019-10-02 20:10:54,810 [  15037]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:DGM File Type,sbt,Properties,kotlin_builtins,Markdown,HTML,Scala,CLASS,KNM,Kotlin,Scala Worksheet,KJSM,JAVA,Groovy,XML 
+2019-10-02 20:10:54,960 [  15187]   INFO - penapi.wm.impl.GlobalMenuLinux - disable global-menu integration because some of shared libraries isn't installed: java.lang.UnsatisfiedLinkError: /opt/intellij-idea-community/bin/libdbm64.so: libdbusmenu-glib.so.4: cannot open shared object file: No such file or directory 
+2019-10-02 20:10:55,071 [  15298]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-10-02 20:10:55,345 [  15572]   INFO - pl$FileIndexDataInitialization - Initialization done:1737 
+2019-10-02 20:10:55,483 [  15710]   INFO - exImpl$StubIndexInitialization - Initialization done:137 
+2019-10-02 20:10:57,240 [  17467]   INFO - rationStore.ComponentStoreImpl - Saving appDebuggerSettings took 21 ms 
+2019-10-02 20:10:57,672 [  17899]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-10-02 20:10:57,675 [  17902]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-10-02 20:10:57,675 [  17902]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-10-02 20:10:57,757 [  17984]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-10-02 20:10:57,760 [  17987]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-10-02 20:10:57,763 [  17990]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2019-10-02 20:10:57,767 [  17994]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2019-10-02 20:10:57,768 [  17995]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-10-02 20:10:57,775 [  18002]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-10-02 20:10:57,779 [  18006]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-10-02 20:10:57,781 [  18008]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
